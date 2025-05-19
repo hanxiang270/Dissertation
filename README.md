@@ -2,7 +2,7 @@
 
 ## Data Explanation
 
-### Dependent Variable: Business Register & Employment Survey by LSOA
+### Dependent Variable (V1): Business Register & Employment Survey by LSOA
 
 - **Year**: 2015-2023
   
