@@ -1,3 +1,4 @@
 cache/*.json
 .DS_Store
 cache/
+london_walk_ncaz*.graphml
